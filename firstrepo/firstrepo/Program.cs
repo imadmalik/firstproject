@@ -8,9 +8,18 @@ namespace firstrepo
 {
     class Program
     {
+         
+
         static void Main(string[] args)
         {
-            
+            basicstuff();
         }
+
+       static public void basicstuff()
+        {
+            Console.Write("Hello World\n");
+            Console.Write("Hello World version 2\n");
+        }
+
     }
 }
