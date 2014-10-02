@@ -1,0 +1,6 @@
+D:\GitRepo\firstrepo\firstrepo\bin\Debug\firstrepo.exe.config
+D:\GitRepo\firstrepo\firstrepo\bin\Debug\firstrepo.exe
+D:\GitRepo\firstrepo\firstrepo\bin\Debug\firstrepo.pdb
+D:\GitRepo\firstrepo\firstrepo\obj\Debug\firstrepo.csprojResolveAssemblyReference.cache
+D:\GitRepo\firstrepo\firstrepo\obj\Debug\firstrepo.exe
+D:\GitRepo\firstrepo\firstrepo\obj\Debug\firstrepo.pdb
